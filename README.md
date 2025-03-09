@@ -40,6 +40,7 @@ http://118.25.192.13:80
 9.	高度可配置：提供直观的配置界面，让用户无需编程即可根据自身需求调整系统参数、优化工作流程，实现快速定制与部署。
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
+![06-大模型呼叫中心拓扑-简图](https://github.com/user-attachments/assets/b42cc929-7850-43e8-9629-0f42bb209fbd)
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
 ![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
