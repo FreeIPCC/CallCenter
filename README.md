@@ -19,7 +19,7 @@ LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.05.09，最新demo链接enjoy😄：
+## 2025.05.10，最新demo链接enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
