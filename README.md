@@ -1,5 +1,5 @@
 # Call Center呼叫中心
-call center,contact center,cc,IPCC,呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!!
+call center,contact center,cc,IPCC,呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!
 
 LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可以对接市面上主流模型与私有模型：OpenAI,LLaMA,Kimi,通义千问,智谱AI,讯飞星火,Gemini,Xorbits Inference,Amazon Bedrock,火山引擎,腾讯混元,Claude,Bard,DeepSeek,Azure OpenAI,千帆大模型,Ollama,qwen,vLLM等！
 
@@ -7,19 +7,18 @@ LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
-## 😄长期目标：将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
+## 😄长期目标：引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
 致力于成为：
 1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；
 2，开源呼叫中心系统、开源客服系统；
 3，视频呼叫中心系统、视频客服系统；
 4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
-## 📫 How to reach us:
-- 官方WeChat:freeipcc
+## 📫 How to reach us 📫:
+- 官方WeChat01:freeipcc
+- 官方WeChat02:freeaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
-- Skype：https://join.skype.com/invite/rVbQH1igkQwV
-- Skype UserID：live:.cid.fedb411de91d9b
-- Email:leehear@gmail.com 
+- Email:leehear@gmail.com
 
 ## 2025.06.11，最新demo链接enjoy😄：
 
