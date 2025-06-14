@@ -25,7 +25,7 @@ LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## 2025.06.13，最新demo链接enjoy😄：
+## 2025.06.14，最新demo链接enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
